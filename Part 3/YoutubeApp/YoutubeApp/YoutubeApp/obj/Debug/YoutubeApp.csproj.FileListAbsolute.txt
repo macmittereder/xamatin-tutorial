@@ -1,0 +1,16 @@
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\YoutubeApp.dll
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\YoutubeApp.pdb
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\Xamarin.Forms.Core.dll
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\Xamarin.Forms.Core.xml
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\obj\Debug\YoutubeApp.MainPage.xaml.g.cs
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\obj\Debug\YoutubeApp.dll
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\obj\Debug\YoutubeApp.pdb
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\obj\Debug\YoutubeApp.Labels.xaml.g.cs
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\obj\Debug\YoutubeApp.dll.mdb
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\YoutubeApp.dll.mdb

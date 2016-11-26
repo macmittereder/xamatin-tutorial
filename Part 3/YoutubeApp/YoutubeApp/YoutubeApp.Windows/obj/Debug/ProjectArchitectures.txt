@@ -1,0 +1,2 @@
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\YoutubeApp.Windows.csproj;neutral
+E:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\YoutubeApp.csproj;neutral
