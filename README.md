@@ -12,3 +12,9 @@ Added Navigation to ListView and fixed solid bar color in ListView
 
 ## Part 4
 Added Label example
+
+## Part 5
+Added Button example
+
+## Part 6
+Resource Dictionary example
