@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="YoutubeApp.GivingButtonsPurpose"
+             Title="Giving Buttons Purpose">
+
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="50" />
+      <RowDefinition Height="50" />
+      <RowDefinition Height="50" />
+      <RowDefinition Height="50" />
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*" />
+      <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+
+    <Label Text="Enter your name:" 
+           FontSize="25"
+           Grid.Row="0"
+           Grid.Column="0"
+           Grid.ColumnSpan="2"/>
+
+    <Entry x:Name="NameEntered" 
+           Grid.Row="1"
+           Grid.Column="0"
+           Grid.ColumnSpan="2"/>
+
+    <Button Text="Hello"
+            Clicked="OnHelloButtonPressed"
+            Grid.Row="2"
+            Grid.Column="0"/>
+
+    <Button Text="Good-bye"
+            Clicked="OnGoodByeButtonPressed"
+            Grid.Row="2"
+            Grid.Column="1"/>
+
+    <Label x:Name="OutputName"
+           FontSize="25"
+           Grid.Row="3"
+           Grid.Column="0"
+           Grid.ColumnSpan="2"/>
+    
+  </Grid>
+</ContentPage>

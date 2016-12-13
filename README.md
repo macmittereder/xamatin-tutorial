@@ -18,3 +18,6 @@ Added Button example
 
 ## Part 6
 Resource Dictionary example
+
+## Part 7
+Getting information from an entry and giving buttons a purpose

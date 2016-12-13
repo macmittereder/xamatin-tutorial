@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="YoutubeApp.Buttons"
+             Title="Button Example">
+
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style x:Key="wackyButton" TargetType="Button">
+        <Setter Property="Rotation" Value="20" />
+        <Setter Property="BorderWidth" Value="20" />
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <StackLayout Orientation="Vertical">
+    <Button Text="Colorful" 
+            BackgroundColor="Blue"
+            TextColor="Red"/>
+    <Button Text="Centered" 
+            HorizontalOptions="Center"
+            VerticalOptions="Center"/>
+    <Button Text="Wacky" 
+            Style="{StaticResource wackyButton}"/>
+  </StackLayout>
+</ContentPage>
