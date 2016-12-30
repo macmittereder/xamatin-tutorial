@@ -21,3 +21,6 @@ Resource Dictionary example
 
 ## Part 7
 Getting information from an entry and giving buttons a purpose
+
+## Part 8
+Added a short example of navigation and passing parameters between views
