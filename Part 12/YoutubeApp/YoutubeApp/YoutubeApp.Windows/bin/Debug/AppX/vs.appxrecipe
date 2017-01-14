@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-4OA938R</Machine>
+    <WindowsUser>Mac</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bdcd980d-5c9d-4df6-838b-43016697ef66</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Mac</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>DECA32E6EFF92F4DFE2C77B7050C8AF5D6C073DA69502E5CB4F6A5B5E0795F19</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bdcd980d-5c9d-4df6-838b-43016697ef66_1.0.0.0_neutral__g3fppy8hds72g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bdcd980d-5c9d-4df6-838b-43016697ef66_g3fppy8hds72g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bdcd980d-5c9d-4df6-838b-43016697ef66</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mac</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-26T05:02:25.892</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\bin\Debug\YoutubeApp.Windows.exe">
+      <PackagePath>YoutubeApp.Windows.exe</PackagePath>
+      <Modified>2016-12-28T05:08:03.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp\bin\Debug\YoutubeApp.dll">
+      <PackagePath>YoutubeApp.dll</PackagePath>
+      <Modified>2016-12-28T05:08:01.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-26T02:56:43.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-26T02:56:43.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-26T02:56:43.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-26T02:56:43.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\bin\Debug\YoutubeApp.Windows.xr.xml">
+      <PackagePath>YoutubeApp.Windows.xr.xml</PackagePath>
+      <Modified>2016-11-26T05:02:25.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-11-26T05:02:25.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-11-26T05:02:25.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\packages\Xamarin.Forms.2.2.0.45\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2016-10-14T18:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin\YoutubeApp\YoutubeApp\YoutubeApp.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-12-28T05:08:03.657</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
