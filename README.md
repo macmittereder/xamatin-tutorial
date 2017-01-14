@@ -2,7 +2,7 @@ Beginning Xamarin YouTube Tutorial
 ======
 
 ## Part 1
-Created project and updated Xamarin.Forms to latest version to support Android api 23.
+Created project and updated Xamarin.Forms to latest version to support Android api 23
 
 ## Part 2
 Setup ListView inside MainPage.XAML and created ListViewTemplate.cs to create parameters for ListView
@@ -24,3 +24,15 @@ Getting information from an entry and giving buttons a purpose
 
 ## Part 8
 Added a short example of navigation and passing parameters between views
+
+## Part 9
+Using a carousel to navigate between content pages
+
+## Part 10
+Creating a master detail page
+
+## Part 11
+Changing detail pages in master detail page
+
+## Part 12
+Creating a display alert
